@@ -10,7 +10,7 @@
  
  🌱 Aprendendo **Python e bibliotecas relacionadas a Data Science, MongoDB Compass, regras de negócios e estatística**
 
-💬 Gosto de acreditar no impossível. Estou cheio de vontade de aprender, vim da área de ADS para Big Data e agora estou a procura de retornar no mercado competitivo na área de Dados. Contato por e-mail ou linkedin.
+💬 Gosto de acreditar no impossível. Estou cheio de vontade de aprender, vim da área de ADS para Big Data e agora estou na área de Dados. Contato por e-mail ou linkedin.
 
 ⚡ Hobbies **Counter-Strike, E-sports, séries, caminhar**
 
