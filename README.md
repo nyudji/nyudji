@@ -8,9 +8,9 @@
  
  📚 **FATEC IPIRANGA - BIG DATA PARA NEGÓCIOS**
  
- 🌱 Aprendendo **Python e bibliotecas relacionadas a Data Science, MongoDB Compass, regras de negócios e estatística**
+ 🌱 Aprendendo **Python e bibliotecas relacionadas a área de dados/ia/analises, Postgre, Cloud, regras de negócios e estatística**
 
-💬 Gosto de acreditar no impossível. Estou cheio de vontade de aprender, vim da área de ADS para Big Data e agora estou na área de Dados. Contato por e-mail ou linkedin.
+💬 Gosto de acreditar no impossível. Estou cheio de vontade de aprender, vim da área de ADS e agora estou na área de Dados, com fooco na Engenharia de Dados e IA. Contato por e-mail ou linkedin.
 
 ⚡ Hobbies **Counter-Strike, E-sports, séries, caminhar**
 
