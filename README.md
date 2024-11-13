@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=nyudji&color=green&style=flat-square&abbreviated=true)
 
-<h3 align="center">Estudante na área de Big Data  🇧🇷</h3>
+<h3 align="center">Estudante Big Data  🇧🇷</h3>
 
 <br/>
 
