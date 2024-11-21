@@ -10,7 +10,7 @@
  
  🌱 Aprendendo **Python e bibliotecas relacionadas a área de dados/ia/analises, Postgre, Cloud, regras de negócios e estatística**
 
-💬 Gosto de acreditar no impossível. Estou cheio de vontade de aprender, vim da área de ADS e agora estou na área de Dados, com foco em Engenharia de Dados e IA. Contato por e-mail ou linkedin.
+💬 Gosto de acreditar no impossível. Sempre com vontade de aprender e com foco de dar o máximo, vim da área de ADS e agora estou na área de dados, com foco em Engenharia de Dados e IA. Contato por e-mail ou linkedin.
 
 ⚡ Hobbies **Counter-Strike, E-sports, séries, caminhar**
 
