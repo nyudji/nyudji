@@ -8,7 +8,7 @@
  
  📚 **FATEC IPIRANGA - BIG DATA PARA NEGÓCIOS**
  
- 🌱 Aprendendo **Python e bibliotecas relacionadas a área de dados/ia/analises, Postgre, Cloud, regras de negócios e estatística**
+ 🌱 Aprendendo **Python e bibliotecas relacionadas a área de dados,IA, análises, Postgre, Cloud, regras de negócios e estatística**
 
 💬 Gosto de acreditar no impossível. Sempre com vontade de aprender e com foco de dar o máximo, vim da área de ADS e agora estou na área de dados, com foco em Engenharia de Dados e IA. Contato por e-mail ou linkedin.
 
