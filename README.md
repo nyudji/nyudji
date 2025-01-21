@@ -33,14 +33,20 @@
 <h2 align="center">⚒️ Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mongodb,mysql,postgres" />
-    <img src="https://skillicons.dev/icons?i=vscode,sublime,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,postgres,sqlite,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=gcp,aws" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git" /><br>
     <a href='https://jupyter.org/'>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" />
     </a>
     <a href='https://pandas.pydata.org/'>
     <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" width="50" height="50" />
     </a>
+    <a href='https://spark.apache.org/docs/latest/api/python/index.html'>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" width="70" height="50" />
+    </a>
+    <a href='https://streamlit.io/'>
+    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="70" height="50" />
     </a>
     <a href='https://neo4j.com/'>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="50" height="50" />
