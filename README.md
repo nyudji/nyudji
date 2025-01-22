@@ -12,7 +12,7 @@
 
 💬 Gosto de acreditar no impossível. Sempre com vontade de aprender e com foco de dar o máximo, vim da área de ADS e agora estou na área de dados, com foco em Engenharia de Dados e IA. Contato por e-mail ou linkedin.
 
-⚡ Hobbies **Counter-Strike, E-sports, séries, caminhar**
+🎱 Hobbies **Counter-Strike, E-sports, séries, caminhar**
 
  </div>
  
@@ -66,6 +66,8 @@
 </div>
 
 <br/><br/>
+<h2 align="center">🔨 Projects 🔨 </h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyudji&repo=projeto_selenium&theme=dark)](https://github.com/nyudji/projeto_selenium)
 
 <hr/>
-
