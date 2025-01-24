@@ -69,5 +69,6 @@
 <h2 align="center">🔨 Projects 🔨 </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyudji&repo=projeto_selenium&theme=dark)](https://github.com/nyudji/projeto_selenium)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyudji&repo=portifolio&theme=dark)](https://github.com/nyudji/portifolio)
 
 <hr/>
