@@ -56,7 +56,7 @@
 <br/>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Status ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nyudji&count_private=true&theme=dark&border_radius=15" alt="streak stats"/>
@@ -66,7 +66,7 @@
 </div>
 
 <br/><br/>
-<h2 align="center">🔨 Projects 🔨 </h2>
+<h2 align="center">🔨 Projetos 🔨 </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyudji&repo=projeto_selenium&theme=dark)](https://github.com/nyudji/projeto_selenium)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyudji&repo=nyudji.github.io&theme=dark)](https://github.com/nyudji/nyudji.github.io)
