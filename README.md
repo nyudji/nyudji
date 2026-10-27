@@ -1,4 +1,4 @@
-<h3 align="center">Engenharia e Análise de Dados, IA 📊</h3> <br/> <div align="center">
+<h3 align="center">📊 Engenharia e Análise de Dados, IA </h3> <br/> <div align="center">
 
 🎓 FATEC IPIRANGA - BIG DATA PARA NEGÓCIOS
 
