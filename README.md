@@ -1,74 +1,13 @@
-![](https://komarev.com/ghpvc/?username=nyudji&color=green&style=flat-square&abbreviated=true)
+<h3 align="center">Engenharia e Análise de Dados, IA 📊</h3> <br/> <div align="center">
 
-<h3 align="center">Estudante Big Data  🇧🇷</h3>
+🎓 FATEC IPIRANGA - BIG DATA PARA NEGÓCIOS
 
-<br/>
+🎯 Foco em Python, SQL, ETL, IA, análises, PostgreSQL e Cloud.
 
-<div align="center">
- 
- 📚 **FATEC IPIRANGA - BIG DATA PARA NEGÓCIOS**
- 
- 🌱 Aprendendo **Python e bibliotecas relacionadas a área de dados, IA, análises, Postgre, Cloud e estatística**
+💬 Gosto de acreditar no impossível. Sempre com vontade de aprender e com foco em dar o meu máximo. Venho do suporte técnico, o que me deixa focado em resolver problemas reais e em entregar soluções que outras pessoas consigam usar. Vim da área de ADS e agora busco oportunidades de entrada em Dados, Desenvolvimento e IA. Contato por e-mail ou LinkedIn.
 
-💬 Gosto de acreditar no impossível. Sempre com vontade de aprender e com foco de dar o máximo, vim da área de ADS e agora estou na área de dados, com foco em Engenharia de Dados e IA. Contato por e-mail ou linkedin.
+🎱 Hobbies: Sair com amigos(as), E-sports (Counter-Strike), séries e e um tempo sozinho para relaxar e organizar as ideias.
 
-🎱 Hobbies **Counter-Strike, E-sports, séries, caminhar**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:knyudji@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/nyudji/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://nyudji.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Ferramentas ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,postgres,sqlite,mongodb,mysql" />
-    <img src="https://skillicons.dev/icons?i=gcp,aws" />
-    <img src="https://skillicons.dev/icons?i=vscode,github,git" /><br>
-    <a href='https://jupyter.org/'>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" />
-    </a>
-    <a href='https://pandas.pydata.org/'>
-    <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" width="50" height="50" />
-    </a>
-    <a href='https://spark.apache.org/docs/latest/api/python/index.html'>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" width="70" height="50" />
-    </a>
-    <a href='https://streamlit.io/'>
-    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="70" height="50" />
-    </a>
-    <a href='https://neo4j.com/'>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="50" height="50" />
-    </a>
-</div>
-
-<br/>
-
-
-<h2 align="center">⚡ Status ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nyudji&count_private=true&theme=dark&border_radius=15" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nyudji&count_private=true&show_icons=true&theme=dark&rank_icon=percentile&border_radius=15" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nyudji&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=1&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+</div> <div align="center"> <a href="mailto:knyudji@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a> <a href="https://www.linkedin.com/in/nyudji/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://nyudji.github.io" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> </a> </div> <hr/> <h2 align="center">⚒️ Ferramentas ⚒️</h2> <br/> <p align="center"> <b>Dados e IA</b><br/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-555555?style=flat-square" /> <img src="https://img.shields.io/badge/Scikit--learn%20(b%C3%A1sico)-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Keras%20(b%C3%A1sico)-D00000?style=flat-square&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> </p> <p align="center"> <b>Engenharia de Dados</b><br/> <img src="https://img.shields.io/badge/ETL-555555?style=flat-square" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" /> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/n8n%20(b%C3%A1sico)-EA4B71?style=flat-square&logo=n8n&logoColor=white" /> </p> <p align="center"> <b>Bancos de Dados</b><br/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" /> </p> <p align="center"> <b>Cloud</b><br/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" /> <img src="https://img.shields.io/badge/AWS%20(b%C3%A1sico)-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> </p> <p align="center"> <b>Visualização</b><br/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /> </p> <p align="center"> <b>Desenvolvimento</b><br/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/IoT%20ESP32%20(b%C3%A1sico)-E7352C?style=flat-square&logo=espressif&logoColor=white" /> </p> <p align="center"> <b>Suporte</b><br/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> </p> <br/> <h2 align="center">⚡ Status ⚡</h2> <br> <div align="center"> <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nyudji&count_private=true&theme=dark&border_radius=15" alt="streak stats"/> <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=nyudji&count_private=true&show_icons=true&theme=dark&rank_icon=percentile&border_radius=15" alt="readme stats" /> <br/> <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nyudji&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=1&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </div>
 
 <br/><br/>
-<h2 align="center">🔨 Projetos 🔨 </h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyudji&repo=projeto_selenium&theme=dark)](https://github.com/nyudji/projeto_selenium)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyudji&repo=nyudji.github.io&theme=dark)](https://github.com/nyudji/nyudji.github.io)
-
-<hr/>
