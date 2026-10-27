@@ -2,7 +2,7 @@
 
 🎓 FATEC IPIRANGA - BIG DATA PARA NEGÓCIOS
 
-🎯 Foco em Python, SQL, ETL, IA, análises, PostgreSQL e Cloud.
+🎯 Foco em Python, SQL, ETL, Engenharia e Análise de Dados, Automações, IA e Cloud.
 
 💬 Gosto de acreditar no impossível. Sempre com vontade de aprender e com foco em dar o meu máximo. Venho do suporte técnico, o que me deixa focado em resolver problemas reais e em entregar soluções que outras pessoas consigam usar. Vim da área de ADS e agora busco oportunidades de entrada em Dados, Desenvolvimento e IA. Contato por e-mail ou LinkedIn.
 
